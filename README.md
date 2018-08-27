@@ -9,4 +9,6 @@ In this repository you can find the following:
   * Using descriptive activity names to name the activities in the data set
   * Labelling the data set with descriptive variable names.
   * From the data set in step 4, creating a second, independent tidy data set with the average of each variable for each activity and each       subject.
-2. *CodeBook.md* file which is essentially a data dictionary for the data set created, it describes all variables that one can find in the data set.
+  It also provides detailed comments on each of the steps as well as justifications if needed.
+  
+2. *CodeBook.md* and *CodeBook.xlsx* files - the former file informs where a code book is stored, whereas the latter is essentially a data dictionary, describing all variables that one can find in the data set.
